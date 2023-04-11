@@ -1,4 +1,9 @@
 ### Hi there 👋
+👋 Hi, I’m @sagar-alande
+👀 I’m interested in backend Software Engineering
+🌱 I've graduated with my Master's degree in Dec 2022
+💞️ I’m looking forward to work on large distributed Systems, Open source
+📫 How to reach me sagar.alande09@gmail.com
 
 <!--
 **sagar-alande/Sagar-Alande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
